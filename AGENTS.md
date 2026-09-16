@@ -4,6 +4,8 @@
 
 This repository is a curated, Persian-language directory of AI, Vibecoding, development, design, automation, infrastructure, and productivity tools for Persian-speaking users. It must stay simple, readable, and easy to maintain over time.
 
+The directory reflects tools the maintainer has personally used or reviewed and found practical; it deliberately does not aim to be exhaustive, and the absence of a tool is not a judgement against it.
+
 ## Primary Files
 
 - `README.md`: public tool directory and contribution guide.
