@@ -20,20 +20,24 @@ The repo is public, but it is a personal notebook, not a community catalog: it m
 
 ## Entry Format
 
-Each tool is one row in a Markdown table with this exact format:
+Each category is a Markdown table wrapped in an RTL container. Keep the blank lines around the table — GitHub needs them to render the table inside the HTML block:
 
-| ابزار | توضیح | لینک |
-|---|---|---|
-| [Tool Name](URL) | Persian concise factual description. | [باز کردن](URL) |
+<div dir="rtl">
+
+| ابزار | توضیح |
+|---|---|
+| [Tool Name](URL) | Persian concise factual description. |
+
+</div>
 
 Additional rules:
 
-- One tool per row; use the official tool/project name when available.
+- One tool per row; use the official tool/project name when available. The tool name is the only link, so there is no separate link column.
 - Descriptions: one sentence, ideally 8–25 Persian words; never place raw URLs in the description column.
-- Use the same URL for the tool-name link and the `باز کردن` link unless there is a compelling reason not to.
 - Sort entries alphabetically by tool name when names are Latin; sort naturally in Persian for Persian names.
 - Place a tool in exactly one primary category; cross-link only if it materially improves discovery.
 - If an entry is a collection/gallery rather than a software product, describe it as a resource, gallery, or inspiration source.
+- Keep every table inside the `<div dir="rtl">` wrapper so it renders right-to-left.
 
 ## Workflow for New Submissions
 
