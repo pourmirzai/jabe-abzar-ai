@@ -22,6 +22,7 @@
 | [archify](https://github.com/tt-a1i/archify) | Skill ساخت نمودارهای معماری، ورک‌فلو، سکانس، جریان داده و چرخه حیات به‌صورت HTML مستقل با انیمیشن و خروجی باکیفیت. |
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | Skillی برای Agentهای کدنویسی که خروجی را ADHD-friendly می‌کند و جلوی گم‌شدن پاسخ اصلی در متن طولانی را می‌گیرد. |
 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | مجموعه Skillهای بازاریابی برای Claude Code و Agentهای AI؛ شامل CRO، کپی‌رایتینگ، سئو، آنالیتیکس و مهندسی رشد. |
+| [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Skill انجام ممیزی امنیتی چندمرحله‌ای توسط Agentهای کدنویسی با یافته‌های ماشین‌خوان و قابل راستی‌آزمایی. |
 | [WordPress Agent Skills](https://github.com/WordPress/agent-skills) | دانش تخصصی WordPress برای دستیارهای کدنویسی AI؛ شامل بلوک‌ها، قالب‌ها، افزونه‌ها و بهترین شیوه‌ها. |
 
 </div>
