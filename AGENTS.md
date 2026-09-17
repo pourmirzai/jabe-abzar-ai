@@ -2,9 +2,9 @@
 
 ## Project Goal
 
-This repository is a curated, Persian-language directory of AI, Vibecoding, development, design, automation, infrastructure, and productivity tools for Persian-speaking users. It must stay simple, readable, and easy to maintain over time.
+This repository is the maintainer's personal toolbox: a simple Persian-language list of tools, agents, skills, and resources he actually uses, kept so they are easy to find again. It must stay simple, readable, and easy to maintain over time.
 
-The directory reflects tools the maintainer has personally used or reviewed and found practical; it deliberately does not aim to be exhaustive, and the absence of a tool is not a judgement against it.
+The repo is public, but it is a personal notebook, not a community catalog: it makes no claims of completeness or of serving any audience, and the absence of a tool is not a judgement against it. Keep the README introduction short and modest; do not add mission statements or promotional claims.
 
 ## Primary Files
 
